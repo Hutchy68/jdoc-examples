@@ -1,4 +1,6 @@
-Joomla Documentation
+Creating a Simple Module
 ==============
 
-This repository contains the zip files for the tutorials found on the Joomla! Documentation Wiki. These are specifically for Joomla 2.5.x.
+## Part 1 - Developing a Basic Module
+
+These are the files for Part 1 of the **Creating a Simple Module** tutorial found on the [Joomla! Documentation Wiki](http://docs.joomla.org/J2.5:Creating_a_simple_module/Developing_a_Basic_Module)
